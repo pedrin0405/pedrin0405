@@ -17,6 +17,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🔎 STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrin0405&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrin0405&show_icons=true&theme=black)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E83845&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
