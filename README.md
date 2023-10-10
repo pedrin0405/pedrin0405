@@ -1,4 +1,4 @@
-### HI THERE 👋🏻
+### HI, I'M PEDRO 👋🏻
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### 🚀 SKILLS
@@ -19,4 +19,4 @@
 ### 🔎 STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrin0405&show_icons=true&theme=dark)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E83845&height=120&section=footer"/>
