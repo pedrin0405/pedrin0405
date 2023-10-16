@@ -19,4 +19,4 @@
 ### 🔎 STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrin0405&show_icons=true&theme=black)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=120&section=footer"/>
